@@ -40,7 +40,7 @@ This dashboard centralizes key KPIs and maturity evaluation metrics to offer a u
 
 ## 📷 Dashboard Preview
 
-![Power BI Dashboard Preview](link-to-dashboard-image-or-gif)
+![Power BI Dashboard Preview](./dashboard-preview.png)
 
 ---
 

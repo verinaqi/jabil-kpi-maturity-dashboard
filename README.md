@@ -47,6 +47,10 @@ This dashboard centralizes key KPIs and maturity evaluation metrics to offer a u
 
 ## 📁 Files
 
+- [mock_kpi_data.xlsx](./mock_kpi_data.xlsx)
+
+## 📁 Files
+
 - `sample-kpi-data.xlsx`: Mockup of KPI tracking dataset
 - `maturity-dashboard.pbix`: Power BI file (with sample data)
 - `dashboard-design-guide.pdf`: Visual wireframe and layout logic
